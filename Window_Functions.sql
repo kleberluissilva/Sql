@@ -9,7 +9,7 @@ CREATE TABLE Employee(
     Salary 		INT
 );
 
-INSERT INTO Employee (ID, Name, LastName, Age, Department, Salary)
+INSERT INTO Employee (EmpID, Name, LastName, Age, Department, Salary)
 VALUES (1, 'Joseph', 'Rusk', 'United States','23','Sales','4500'),
        (2, 'John', 'Nephew', 'England','21','Sales','5000'),
        (3, 'Marie', 'Claire', 'France','24','Production','7000'),
